@@ -20,5 +20,7 @@ The following data was used in both stories on Met police use of force.
 
 ## Get the code
 
+Met data is recorded where every single instance of use of force is recorded by officers. This can lead to duplication. To filter the data based on subject the following code was used:
 
+[Code for removing duplicates](https://github.com/hanna-h2/MetPolice-2020/blob/main/code/MET2020.Rmd)
 
