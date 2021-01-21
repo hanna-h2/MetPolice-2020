@@ -1,6 +1,6 @@
 # MetPolice-2020
 
-This repository contains data, code and other files to support stories published on Metropolitan Police Use of Force data from 2020.
+This repository contains data, code and other files to support stories published on Metropolitan Police Use of Force data from 2020
 
 ## Stories 
 
